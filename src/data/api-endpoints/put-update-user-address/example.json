@@ -1,0 +1,33 @@
+{
+  "request": {
+    "firstName": "Patrick",
+    "lastName": "Egli",
+    "salutation": "Herr",
+    "email": "egli.patrick@gmail.com",
+    "password": "TestPassword",
+    "billingAddress": {
+      "firstName": "Patrick",
+      "lastName": "Egli",
+      "salutation": "Herr",
+      "company": null,
+      "street": "Rainstrasse 38",
+      "zipCode": "8356",
+      "city": "Ettenhausen",
+      "phone": "079 236 79 92"
+    },
+    "shippingAddress": {
+      "firstName": "Patrick",
+      "lastName": "Egli",
+      "salutation": "Herr",
+      "company": null,
+      "street": "Rainstrasse 38",
+      "zipCode": "8356",
+      "city": "Ettenhausen",
+      "phone": "079 236 79 92"
+    },
+    "language": "de"
+  },
+  "response": {
+    "status": 200
+  }
+}

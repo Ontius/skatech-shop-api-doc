@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Rechnung",
+    "image": "https://www.skate.ch/shop/images/invoice-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "PayPal",
+    "image": "https://www.skate.ch/shop/images/paypal-icon.png"
+  }
+]

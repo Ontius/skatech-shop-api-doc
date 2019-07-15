@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PLAZA S TGM",
+      "number": "SKC-987-7768-146",
+      "quantity": 2,
+      "unitPrice": "99.00",
+      "price": "198.00",
+      "bonusPoints": 19800,
+      "images": [
+        "https://www.skate.ch/shop/plaza-s-tgm-1.png",
+        "https://www.skate.ch/shop/plaza-s-tgm-2.png"
+      ]
+    }
+  ],
+  "bonusPoints": 19800,
+  "shippingCosts": "4.95",
+  "totalPrice": "202.95"
+}

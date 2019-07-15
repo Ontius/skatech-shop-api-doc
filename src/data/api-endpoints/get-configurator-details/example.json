@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "name": "Complete Configurator",
+  "label": "Stelle dein Complete zusammen",
+  "url": "https://www.skate.ch/shop/complete-configurator",
+  "completed": false,
+  "totalPrice": 72.09,
+  "discountAmount": 16.91,
+  "entries": [
+    {
+      "id": 1,
+      "name": "Deck",
+      "label": "Decks",
+      "image": "https://www.skate.ch/shop/images/configurator-deck-placeholder.png",
+      "discount": 10,
+      "optional": false,
+      "selectedProduct": {
+        "id": 1,
+        "name": "Gallery Series",
+        "productNumber": "SKT-BS2-2285",
+        "originalPrice": "89.00",
+        "price": "72.09",
+        "instock": 100,
+        "discount": 19,
+        "supplier": {
+          "id": 1,
+          "name": "Flip",
+          "image": "https://www.skate.ch/shop/images/flip.png"
+        },
+        "images": [
+          "https://www.skate.ch/shop/gallery-series-1.png",
+          "https://www.skate.ch/shop/gallery-series-2.png"
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Pro",
+            "values": [
+              {
+                "id": 12,
+                "name": "Alec Majerus"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Breite",
+            "values": [
+              {
+                "id": 10,
+                "name": "8.0\""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": 1,
+      "name": "Brett komplett montieren",
+      "price": 0.0
+    },
+    {
+      "id": 2,
+      "name": "Griptape montieren (Regular)",
+      "price": 0.0
+    },
+    {
+      "id": 3,
+      "name": "Griptape montieren (Goofy)",
+      "price": 0.0
+    }
+  ]
+}

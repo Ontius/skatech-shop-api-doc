@@ -1,0 +1,9 @@
+{
+  "request": {
+    "productId": 1,
+    "quantity": 2
+  },
+  "response": {
+    "status": 200
+  }
+}

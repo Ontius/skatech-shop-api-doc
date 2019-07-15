@@ -1,0 +1,23 @@
+{
+  "image": "https://www.skate.ch/shop/images/blueprint-decks.png",
+  "entries": [
+    {
+      "id": 1,
+      "name": "Width",
+      "value": "8.25\"",
+      "position": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    {
+      "id": 2,
+      "name": "Length",
+      "value": "32.35\"",
+      "position": {
+        "x": 300,
+        "y": 300
+      }
+    }
+  ]
+}

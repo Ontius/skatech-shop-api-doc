@@ -1,0 +1,9 @@
+{
+  "request": {
+    "email": "egli.patrick@gmail.com",
+    "password": "TestPassword"
+  },
+  "response": {
+    "status": 200
+  }
+}

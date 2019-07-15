@@ -1,0 +1,15 @@
+.s20d-enpoint-item {
+  cursor: pointer;
+}
+
+.s20d-enpoint-item .mobile-route {
+  background: black;
+  position: absolute;
+  color: white;
+}
+
+.s20d-enpoint-item .endpoint-route {
+  max-width: 400px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}

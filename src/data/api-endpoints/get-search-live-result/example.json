@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gallery Series",
+      "productNumber": "SKT-BS2-2285",
+      "price": "89.00",
+      "instock": 100,
+      "supplier": {
+        "id": 1,
+        "name": "Flip",
+        "image": "https://www.skate.ch/shop/images/flip.png"
+      },
+      "images": [
+        "https://www.skate.ch/shop/gallery-series-1.png",
+        "https://www.skate.ch/shop/gallery-series-2.png"
+      ],
+      "attributes": [
+        {
+          "id": 1,
+          "name": "Pro",
+          "values": [
+            {
+              "id": 12,
+              "name": "Alec Majerus"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Breite",
+          "values": [
+            {
+              "id": 10,
+              "name": "8.0\""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Skate",
+      "numProducts": 10000
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Flip",
+      "image": "https://www.skate.ch/shop/images/flip.png",
+      "numProducts": 100
+    },
+    {
+      "id": 2,
+      "name": "Thrasher",
+      "image": "https://www.skate.ch/shop/images/thrasher.png",
+      "numProducts": 99
+    },
+    {
+      "id": 3,
+      "name": "Red Dragon",
+      "image": "https://www.skate.ch/shop/images/reddragon.png",
+      "numProducts": 199
+    }
+  ]
+}

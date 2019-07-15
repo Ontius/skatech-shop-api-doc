@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Flip",
+    "image": "https://www.skate.ch/shop/images/flip.png"
+  },
+  {
+    "id": 2,
+    "name": "Thrasher",
+    "image": "https://www.skate.ch/shop/images/thrasher.png"
+  },
+  {
+    "id": 3,
+    "name": "Red Dragon",
+    "image": "https://www.skate.ch/shop/images/reddragon.png"
+  }
+]

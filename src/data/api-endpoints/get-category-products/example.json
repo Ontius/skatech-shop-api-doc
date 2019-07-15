@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "PLAZA S TGM",
+    "number": "SKC-987-7768-146",
+    "prices": {
+      "price": 99.0,
+      "salePrice": 89.0,
+      "discount": {
+        "hasDiscount": true,
+        "discount": 10.1,
+        "discountPrice": 10.0
+      }
+    },
+    "bonusPoints": 9900,
+    "tax": 7.7,
+    "instock": 100,
+    "delivery": {
+      "deliveryTime": 1,
+      "estimatedDeliveryDate": "2019-09-12 09:59:11"
+    },
+    "isNewOnStock": true,
+    "isBackOnStock": false,
+    "flags": ["hot", "topseller"],
+    "unit": "Stk",
+    "withoutStock": false,
+    "ean": "3613373723307",
+    "isVoucher": false,
+    "shortDescription": "Das ist die Kurzbeschreibung des Produkts",
+    "description": "Das ist die Beschreibung des Produkts",
+    "webSort": "1",
+    "supplier": {
+      "id": 9,
+      "name": "DC",
+      "image": "https://www.skate.ch/shop/images/dc.png"
+    },
+    "images": [
+      "https://www.skate.ch/shop/plaza-s-tgm-1.png",
+      "https://www.skate.ch/shop/plaza-s-tgm-2.png"
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Farbe",
+        "values": [
+          {
+            "id": 12,
+            "name": "Tan"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Grösse",
+        "values": [
+          {
+            "id": 9,
+            "name": "8.5"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Material",
+        "values": [
+          {
+            "id": 10,
+            "name": "Wildleder"
+          }
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 11,
+        "name": "PLAZA S TGM",
+        "number": "SKC-987-7768-149",
+        "images": [
+          "https://www.skate.ch/shop/plaza-s-tgm-149-1.png",
+          "https://www.skate.ch/shop/plaza-s-tgm-149-2.png"
+        ],
+        "options": [
+          {
+            "id": 1,
+            "name": "Farbe",
+            "values": [
+              {
+                "id": 12,
+                "name": "Tan"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Grösse",
+            "values": [
+              {
+                "id": 11,
+                "name": "10.0"
+              }
+            ]
+          }
+        ],
+        "sizes": [
+          {
+            "id": 1,
+            "name": "EU",
+            "value": {
+              "id": 1,
+              "name": "43"
+            }
+          },
+          {
+            "id": 2,
+            "name": "US",
+            "value": {
+              "id": 2,
+              "name": "10.0"
+            }
+          },
+          {
+            "id": 3,
+            "name": "UK",
+            "value": {
+              "id": 3,
+              "name": "9.0"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "PLAZA S TGM",
+        "number": "SKC-987-7768-150",
+        "images": [
+          "https://www.skate.ch/shop/plaza-s-tgm-150-1.png",
+          "https://www.skate.ch/shop/plaza-s-tgm-150-2.png"
+        ],
+        "options": [
+          {
+            "id": 1,
+            "name": "Farbe",
+            "values": [
+              {
+                "id": 12,
+                "name": "Tan"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Grösse",
+            "values": [
+              {
+                "id": 13,
+                "name": "10.5"
+              }
+            ]
+          }
+        ],
+        "sizes": [
+          {
+            "id": 1,
+            "name": "EU",
+            "value": {
+              "id": 4,
+              "name": "43.5"
+            }
+          },
+          {
+            "id": 2,
+            "name": "US",
+            "value": {
+              "id": 5,
+              "name": "10.5"
+            }
+          },
+          {
+            "id": 3,
+            "name": "UK",
+            "value": {
+              "id": 6,
+              "name": "9.5"
+            }
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Shoes",
+        "parent": {
+          "id": 2,
+          "name": "Streetwear"
+        }
+      }
+    ],
+    "variantGroups": [
+      {
+        "key": "Sale B2C",
+        "value": "39.90"
+      }
+    ],
+    "productGroups": [
+      {
+        "key": "Single Item",
+        "value": "true"
+      },
+      {
+        "key": "B2C Only",
+        "value": "false"
+      }
+    ],
+    "sizes": [
+      {
+        "id": 1,
+        "name": "EU",
+        "value": {
+          "id": 7,
+          "name": "41.5"
+        }
+      },
+      {
+        "id": 2,
+        "name": "US",
+        "value": {
+          "id": 8,
+          "name": "8.5"
+        }
+      },
+      {
+        "id": 3,
+        "name": "UK",
+        "value": {
+          "id": 9,
+          "name": "7.5"
+        }
+      }
+    ]
+  }
+]

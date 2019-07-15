@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Swiss Post",
+    "image": "https://www.skate.ch/shop/images/swiss-post-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "DHL",
+    "image": "https://www.skate.ch/shop/images/dhl-icon.png"
+  }
+]

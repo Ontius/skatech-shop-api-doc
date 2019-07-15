@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Farbe",
+    "values": [
+      {
+        "id": 1,
+        "name": "Blau"
+      },
+      {
+        "id": 1,
+        "name": "GrÃ¼n"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "GrÃ¶sse",
+    "values": [
+      {
+        "id": 9,
+        "name": "S"
+      },
+      {
+        "id": 10,
+        "name": "M"
+      }
+    ]
+  }
+]

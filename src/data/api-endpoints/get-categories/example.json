@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Skate",
+    "children": [
+      {
+        "id": 11,
+        "name": "Hardgoods"
+      },
+      {
+        "id": 12,
+        "name": "Protection Gear"
+      },
+      {
+        "id": 13,
+        "name": "Roller"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Streetwear",
+    "children": [
+      {
+        "id": 14,
+        "name": "Men Streetwear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "datetime": "2019-01-01 10:19:09",
+    "number": "SB-100093",
+    "shippingCosts": "4.95",
+    "totalPrice": "202.95",
+    "trackingNumber": "SwissPost Tracking Number",
+    "products": [
+      {
+        "id": 1,
+        "name": "PLAZA S TGM",
+        "number": "SKC-987-7768-146",
+        "unitPrice": "99.00",
+        "price": "198.00",
+        "quantity": 2,
+        "supplier": {
+          "id": 9,
+          "name": "DC",
+          "image": "https://www.skate.ch/shop/images/dc.png"
+        },
+        "images": [
+          "https://www.skate.ch/shop/plaza-s-tgm-1.png",
+          "https://www.skate.ch/shop/plaza-s-tgm-2.png"
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "name": "Farbe",
+            "values": [
+              {
+                "id": 12,
+                "name": "Tan"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Grösse",
+            "values": [
+              {
+                "id": 9,
+                "name": "8.5"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Material",
+            "values": [
+              {
+                "id": 10,
+                "name": "Wildleder"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
